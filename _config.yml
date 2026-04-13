@@ -5,11 +5,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
-
-# Enable masthead navigation on all pages including home
-masthead:
-  nav: true
-
+  
 nav:
   - title: "Home"
     url: /
@@ -23,3 +19,7 @@ nav:
     url: /resume
   - title: "Contact"
     url: /contact
+
+# Enable masthead navigation on all pages including home
+masthead:
+  nav: true
