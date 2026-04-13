@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Resume"
+permalink: /resume
 ---
 
 [Download Resume (PDF)](assets/pdf/resume.pdf){: .btn .btn--primary }
