@@ -1,22 +1,3 @@
 title: "ZEHAO | Data Analyst & AI Practitioner"
 description: "Personal job-seeking website showcasing skills, projects, and resume."
-theme: minimal-mistakes-jekyll
-
-# Navigation bar
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about
-  - title: "Skills"
-    url: /skills
-  - title: "Projects"
-    url: /projects
-  - title: "Resume"
-    url: /resume
-  - title: "Contact"
-    url: /contact
-
-# Plugins
-plugins:
-  - jekyll-include-cache
+theme: minima
