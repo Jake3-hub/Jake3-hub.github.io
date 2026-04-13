@@ -1,7 +1,9 @@
 ---
 layout: single
 title: "About Me"
+permalink: /about
 ---
+
 
 I am a graduate student in Artificial Intelligence and Business Analytics at Lingnan University, passionate about transforming data into actionable insights. My academic training and hands‑on project experience span machine learning, NLP, predictive modeling, and business analytics.
 
