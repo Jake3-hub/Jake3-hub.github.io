@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "Aspiring Data Analyst & AI Practitioner"
+title: "ZEHAO | Data Analyst & AI Practitioner"
+permalink: /
 ---
 
 Transforming data into insights through analytics, machine learning, and business storytelling.
