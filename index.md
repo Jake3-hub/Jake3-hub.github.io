@@ -2,8 +2,7 @@
 layout: home
 title: "ZEHAO | Data Analyst & AI Practitioner"
 permalink: /
-header:
-  overlay: false
+show_nav: true
 ---
 
 Transforming data into insights through analytics, machine learning, and business storytelling.
