@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "ZEHAO | Data Analyst & AI Practitioner"
 permalink: /
 ---
