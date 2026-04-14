@@ -15,7 +15,7 @@ defaults:
       author_profile: true   # 先关掉，后面可以再开
 
 author:
-  name: "Jake"
+  name: "Jake HONG ZEHAO"
   bio: "MSc in Artificial Intelligence and Business Analytics | Passionate about turning data into actionable insights."
   #avatar: "/assets/images/avatar.jpg"   # 把你的照片放进去（推荐 300x300）
   location: "Hong Kong"
