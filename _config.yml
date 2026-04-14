@@ -1,26 +1,17 @@
 title: "ZEHAO | Data Analyst & AI Practitioner"
 description: "Personal job-seeking website showcasing skills, projects, and resume."
 
-remote_theme: "mmistakes/minimal-mistakes"
-
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
-# Enable navigation bar (masthead) on all pages including home
-masthead:
-  nav: true
+# 导航栏配置（推荐只用 _data/navigation.yml）
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true   # 如果你想显示侧边作者信息
 
-# Navigation
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about
-  - title: "Skills"
-    url: /skills
-  - title: "Projects"
-    url: /projects
-  - title: "Resume"
-    url: /resume
-  - title: "Contact"
-    url: /contact
+# 可选：开启搜索
+search: true
