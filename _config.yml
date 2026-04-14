@@ -12,6 +12,22 @@ defaults:
       path: ""
     values:
       layout: single
-      author_profile: false   # 先关掉，后面可以再开
+      author_profile: true   # 先关掉，后面可以再开
+
+author:
+  name: "ZEHAO"
+  bio: "MSc in Artificial Intelligence and Business Analytics | Passionate about turning data into actionable insights."
+  #avatar: "/assets/images/avatar.jpg"   # 把你的照片放进去（推荐 300x300）
+  location: "Hong Kong"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your@email.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/你的ID"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/你的用户名"
 
 search: true
