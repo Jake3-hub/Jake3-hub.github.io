@@ -14,7 +14,7 @@ classes: wide
   <div class="grid__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
       <div class="archive__item-teaser">
-        <img src="https://via.placeholder.com/600x400/0072B2/FFFFFF?text=Titanic+Survival" alt="Titanic Project" style="width:100%; border-radius: 8px;">
+        <img src="/assets/Titanic.png" alt="Titanic Project" style="width:100%; border-radius: 8px;">
       </div>
       <h2 class="archive__item-title" itemprop="headline">
         <a href="#">Titanic Survival Prediction</a>
@@ -32,7 +32,7 @@ classes: wide
   <div class="grid__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
       <div class="archive__item-teaser">
-        <img src="https://via.placeholder.com/600x400/00A86B/FFFFFF?text=IMDb+Sentiment" alt="IMDb Project" style="width:100%; border-radius: 8px;">
+        <img src="/assets/Sentiment Analysis.png" alt="IMDb Project" style="width:100%; border-radius: 8px;">
       </div>
       <h2 class="archive__item-title" itemprop="headline">
         <a href="#">IMDb Sentiment Classification</a>
