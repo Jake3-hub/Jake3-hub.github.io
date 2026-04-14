@@ -17,7 +17,7 @@ classes: wide
         <img src="/assets/Titanic.png" alt="Titanic Project" style="width:100%; border-radius: 8px;">
       </div>
       <h2 class="archive__item-title" itemprop="headline">
-        <a href="#">Titanic Survival Prediction</a>
+        <a >Titanic Survival Prediction</a>
       </h2>
       <p class="archive__item-excerpt" itemprop="description">
         <strong>Problem:</strong> Predict passenger survival using machine learning.<br>
@@ -35,7 +35,7 @@ classes: wide
         <img src="/assets/Sentiment Analysis.png" alt="IMDb Project" style="width:100%; border-radius: 8px;">
       </div>
       <h2 class="archive__item-title" itemprop="headline">
-        <a href="#">IMDb Sentiment Classification</a>
+        <a >IMDb Sentiment Classification</a>
       </h2>
       <p class="archive__item-excerpt" itemprop="description">
         <strong>Problem:</strong> Classify movie review sentiment.<br>
