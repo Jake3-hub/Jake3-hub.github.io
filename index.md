@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Jake HONG ZEHAO | Data Analyst & AI Practitioner"
+title: "Jake HONG | Data Analyst & AI Practitioner"
 permalink: /
 ---
 
