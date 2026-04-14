@@ -8,4 +8,4 @@ Transforming data into insights through analytics, machine learning, and busines
 
 [View Projects](projects){: .btn .btn--primary }
 
-[Download Resume](assets/pdf/resume.pdf){: .btn }
+[📄 Download Full Resume (PDF)](assets/pdf/resume.pdf){: .btn .btn--success .btn--large .btn--block}
