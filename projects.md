@@ -2,23 +2,48 @@
 layout: single
 title: "Projects"
 permalink: /projects
+author_profile: true
 classes: wide
 ---
 
-# Titanic Survival Prediction (2026)
+## Featured Projects
 
-**Problem:** Predict passenger survival using machine learning.  
-**Data:** 891 rows, 12 features (Kaggle).  
-**Approach:** Data cleaning, EDA, feature engineering, ML models.  
-**Outcome:** Identified key predictors; strong model performance.  
-**My Contribution:** Full pipeline development.
+<div class="grid__wrapper">
+  
+  <!-- 项目1 -->
+  <div class="grid__item">
+    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+      <div class="archive__item-teaser">
+        <img src="https://via.placeholder.com/600x400/0072B2/FFFFFF?text=Titanic+Survival" alt="Titanic Project" style="width:100%; border-radius: 8px;">
+      </div>
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="#">Titanic Survival Prediction</a>
+      </h2>
+      <p class="archive__item-excerpt" itemprop="description">
+        <strong>Problem:</strong> Predict passenger survival using machine learning.<br>
+        <strong>Approach:</strong> Data cleaning, EDA, feature engineering, multiple ML models.<br>
+        <strong>Outcome:</strong> Strong model performance with key predictors identified.
+      </p>
+      <p><strong>My Contribution:</strong> Full end-to-end pipeline development.</p>
+    </article>
+  </div>
 
----
+  <!-- 项目2 -->
+  <div class="grid__item">
+    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+      <div class="archive__item-teaser">
+        <img src="https://via.placeholder.com/600x400/00A86B/FFFFFF?text=IMDb+Sentiment" alt="IMDb Project" style="width:100%; border-radius: 8px;">
+      </div>
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="#">IMDb Sentiment Classification</a>
+      </h2>
+      <p class="archive__item-excerpt" itemprop="description">
+        <strong>Problem:</strong> Classify movie review sentiment.<br>
+        <strong>Approach:</strong> SVM, BERT, RoBERTa-Large, Llama 3.2 (LoRA).<br>
+        <strong>Outcome:</strong> RoBERTa achieved best accuracy; LoRA model is efficient.
+      </p>
+      <p><strong>My Contribution:</strong> Model implementation, hyperparameter tuning, evaluation.</p>
+    </article>
+  </div>
 
-# IMDb Sentiment Classification (2026)
-
-**Problem:** Classify movie review sentiment using ML and LLMs.  
-**Data:** 50,000 labeled reviews.  
-**Approach:** SVM, BERT, RoBERTa‑Large, Llama 3.2 1B (LoRA).  
-**Outcome:** RoBERTa best accuracy; LoRA model efficient.  
-**My Contribution:** Model implementation, tuning, evaluation.
+</div>
