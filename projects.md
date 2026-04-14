@@ -53,12 +53,12 @@ classes: wide
         <img src="/assets/images/Recommendation.png" alt="Recommendation System Project" style="width:100%; border-radius: 8px;">
       </div>
       <h2 class="archive__item-title" itemprop="headline">
-        <a >Employment Recommendation System (2026)</a>
+        <a >Employment Recommendation System (2021)</a>
       </h2>
       <p class="archive__item-excerpt" itemprop="description">
         <strong>Problem:</strong> Improve job–candidate matching efficiency by automating the recommendation process for employment platforms.<br>
-        <strong>Approach:</strong> Built a Django-based web system integrating collaborative filtering algorithms to recommend suitable jobs to candidates. Implemented user–item similarity, feature extraction, and ranking logic.<br>
-        <strong>Outcome:</strong> Improved matching relevance and reduced manual screening workload; system demonstrated significantly higher recommendation accuracy compared to baseline keyword matching.
+        <strong>Approach:</strong> Django-based web system, collaborative filtering algorithms. User–item similarity and ranking logic.<br>
+        <strong>Outcome:</strong> Improved matching relevance and reduced manual screening workload; system demonstrated significantly higher recommendation accuracy
       </p>
       <p><strong>My Contribution:</strong> Designed and developed the full system (backend + recommendation engine), implemented collaborative filtering, and deployed the web application.</p>
     </article>
