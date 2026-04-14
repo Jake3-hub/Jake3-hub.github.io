@@ -2,16 +2,16 @@ title: "ZEHAO | Data Analyst & AI Practitioner"
 description: "Personal job-seeking website showcasing skills, projects, and resume."
 
 remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-include-cache
 
-# 导航栏配置（推荐只用 _data/navigation.yml）
+# 默认布局
 defaults:
   - scope:
       path: ""
     values:
       layout: single
-      author_profile: true   # 如果你想显示侧边作者信息
+      author_profile: false   # 先关掉，后面可以再开
 
-# 可选：开启搜索
 search: true
