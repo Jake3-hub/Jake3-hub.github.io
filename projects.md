@@ -14,7 +14,7 @@ classes: wide
   <div class="grid__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
       <div class="archive__item-teaser">
-        <img src="/assets/Titanic.png" alt="Titanic Project" style="width:100%; border-radius: 8px;">
+        <img src="/assets/images/Titanic.png" alt="Titanic Project" style="width:100%; border-radius: 8px;">
       </div>
       <h2 class="archive__item-title" itemprop="headline">
         <a >Titanic Survival Prediction(2026)</a>
@@ -32,7 +32,7 @@ classes: wide
   <div class="grid__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
       <div class="archive__item-teaser">
-        <img src="/assets/Sentiment Analysis.png" alt="IMDb Project" style="width:100%; border-radius: 8px;">
+        <img src="/assets/images/Sentiment Analysis.png" alt="IMDb Project" style="width:100%; border-radius: 8px;">
       </div>
       <h2 class="archive__item-title" itemprop="headline">
         <a >IMDb Sentiment Classification(2026)</a>
@@ -50,7 +50,7 @@ classes: wide
   <div class="grid__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
       <div class="archive__item-teaser">
-        <img src="/assets/.png" alt="Recommendation System Project" style="width:100%; border-radius: 8px;">
+        <img src="/assets/images/Recommendation.png" alt="Recommendation System Project" style="width:100%; border-radius: 8px;">
       </div>
       <h2 class="archive__item-title" itemprop="headline">
         <a >Employment Recommendation System (2026)</a>
