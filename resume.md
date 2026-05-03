@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume
 ---
 
-[Download Resume (PDF)](assets/pdf/resume.pdf){: .btn .btn--primary }
+[Download Resume (PDF)](assets/pdf/Resume_Jake_HONG.pdf){: .btn .btn--primary }
 
 ### Summary
 - MSc in AI & Business Analytics  
